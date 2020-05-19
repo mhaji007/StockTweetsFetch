@@ -1,4 +1,5 @@
 # StockTweetsFetch
+
 An application for fetching, viewing, and editing tweets from Stocktwits API based on user input
 
 ## Installation
@@ -15,6 +16,9 @@ Replace https://stocktweets-server.herokuapp.com/tweets with http://localhost:40
 Run ```npm install``` <br/>
 Run ```npm start```<br/>
 
+
+## Demo
+![StockFetch Demo](stock-tweetsfetch-demo/StockTweetsFetch.gif)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
