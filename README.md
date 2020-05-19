@@ -18,7 +18,7 @@ Run ```npm start```<br/>
 
 
 ## Demo
-![StockFetch Demo](stock-tweetsfetch-demo/StockTweetsFetch.gif)
+![StockFetch Demo](StockTweetsFetch/stock-tweetsfetch-demo/StockTweetsFetch.gif)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
