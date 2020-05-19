@@ -20,5 +20,3 @@ Run ```npm start```<br/>
 ## Demo
 ![StockTweetsFetch](https://user-images.githubusercontent.com/22078200/82381564-6f82be80-99f8-11ea-9b21-80a1c442ce46.gif)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
