@@ -4,7 +4,7 @@ An application for fetching, viewing, and editing tweets from Stocktwits API bas
 
 ## Installation
 
-To run the app locally please follow the steps below:
+To run the app locally on your device please follow the steps below:
 
 In server:<br/>
 Run ```node src/index.js```<br/>
