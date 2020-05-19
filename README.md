@@ -22,5 +22,6 @@ To search for tweets based on single or multiple stock tickers use the searchbar
 
 
 ## Demo
+Working version of the app can be found at https://stock-tweets.netlify.app/
 ![StockTweetsFetch](https://user-images.githubusercontent.com/22078200/82381564-6f82be80-99f8-11ea-9b21-80a1c442ce46.gif)
 
