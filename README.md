@@ -16,6 +16,10 @@ Replace https://stocktweets-server.herokuapp.com/tweets with http://localhost:40
 Run ```npm install``` <br/>
 Run ```npm start```<br/>
 
+## Usage
+
+To search for tweets based on single or multiple stock tickers use the searchbar located in the right pan. Use the searchbar in the center to filter the results based on a specific twitter handle.
+
 
 ## Demo
 ![StockTweetsFetch](https://user-images.githubusercontent.com/22078200/82381564-6f82be80-99f8-11ea-9b21-80a1c442ce46.gif)
